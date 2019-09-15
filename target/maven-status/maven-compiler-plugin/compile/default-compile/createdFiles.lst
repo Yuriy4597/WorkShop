@@ -1,0 +1,9 @@
+com\Lits\pageObgect\ShoppingCartPage.class
+com\Lits\pageObgect\ProdactDetailsPage.class
+com\Lits\IMDB\ActorDetailPage.class
+com\Lits\pageObgect\SearchResultPage.class
+com\Lits\IMDB\SignInPage.class
+com\Lits\IMDB\MovieDetailsPage.class
+com\Lits\pageObgect\EbayPage.class
+com\Lits\webdriver\AbstractPage.class
+com\Lits\webdriver\WebDriverContext.class

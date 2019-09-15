@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [tests]">
+  <test name="Test IMDB(failed)">
+    <classes>
+      <class name="com.LitsTest.ShoppingCartTest">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.LitsTest.ShoppingCartTest -->
+      <class name="com.LitsTest.MultiMediaContent">
+        <methods>
+          <include name="testIMDB"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.LitsTest.MultiMediaContent -->
+    </classes>
+  </test> <!-- Test IMDB(failed) -->
+</suite> <!-- Failed suite [tests] -->
